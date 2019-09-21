@@ -22,6 +22,7 @@ const App = props => {
                     <Route component={Error} />
                 </Switch>
             </BrowserRouter>
+            <div className={classes.copyRights}>Made By &copy; Omar Zayed</div>
         </div>
     );
 }
