@@ -8,7 +8,7 @@ export default theme => ({
     },
     return: {
         margin: "0 auto",
-        width: "40%"
+        maxWidth: "300px"
     },
     unvalid: {
         color: "red",

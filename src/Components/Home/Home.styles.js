@@ -8,7 +8,7 @@ export default theme => ({
     },
     start: {
         margin: "0 auto",
-        width: "40%"
+        maxWidth: "300px"
     },
     label: {
         color: "aqua",

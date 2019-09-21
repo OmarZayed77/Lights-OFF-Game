@@ -12,6 +12,6 @@ export default theme => ({
     },
     PlayAgain: {
         margin: "2rem auto",
-        minWidth: "40%"
+        maxWidth: "300px"
     }
 })
