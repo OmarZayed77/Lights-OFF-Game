@@ -1,8 +1,8 @@
 export default theme => ({
     root: {
         padding: "1rem",
-        width: "100vw",
-        height: "100vh",
+        minWidth: "100vw",
+        minHeight: "100vh",
         backgroundColor: "black",
         display: "flex",
         flexDirection: "column",
