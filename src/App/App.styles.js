@@ -1,6 +1,6 @@
 export default theme => ({
     root: {
-        padding: "1rem",
+        padding: "0.8rem 1rem 0.2rem 1rem",
         minWidth: "100vw",
         minHeight: "100vh",
         backgroundColor: "black",
